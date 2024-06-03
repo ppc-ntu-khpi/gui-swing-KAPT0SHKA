@@ -1,3 +1,21 @@
+### Код, та робота програми
+### На "трійку"
+
+![](screenshot/1.png)
+
+### На "чотири"
+
+![](screenshot/2.png)
+
+![](screenshot/3.png)
+
+![](screenshot/4.png)
+
+
+
+
+
+
 # UI Lab 3
 ![](terminal-icon.png)
 ![](gui-icon.png)
